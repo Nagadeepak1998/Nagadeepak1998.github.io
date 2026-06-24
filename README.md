@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a static portfolio website for Naga Appalaneni's DevOps, Cloud, SRE, Platform Engineering, and AI Automation brand.
+This is a static portfolio website for Nagadeepak Appalaneni's DevOps, Cloud, SRE, Platform Engineering, and AI Automation brand.
 
 ## Run Locally
 
